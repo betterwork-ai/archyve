@@ -1,4 +1,6 @@
-# Open in Sci-Hub <devTool>
+# Open in Sci-Hub 
+> devTool - a chromium browser based extension
+<br>
 
 [![betterwork.ai](https://img.shields.io/badge/betterwork.ai-8A2BE2?style=flat-square&logo=%2306B6D4)](https://betterwork-ai.dino.icu)
 
@@ -59,6 +61,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 - Chrome Extensions API for allowing us to build this extension.
 
 ---
+
 
 
 If this extension has been helpful to you in any way, feel free to support me with a coffee! 
