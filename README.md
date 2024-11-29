@@ -1,4 +1,4 @@
-# Open in Sci-Hub Chrome Extension
+# Open in Sci-Hub <devTool>
 
 [![betterwork.ai](https://img.shields.io/badge/betterwork.ai-8A2BE2?style=flat-square&logo=%2306B6D4)](https://betterwork-ai.dino.icu)
 
