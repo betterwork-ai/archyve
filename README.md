@@ -2,12 +2,14 @@
 
 A simple Chrome extension that allows users to quickly open research paper URLs in Sci-Hub directly from their browser with a right-click context menu, a browser action icon, or a hotkey. You can customize the Sci-Hub domain and toggle settings such as enabling/disabling hotkeys and icon clicks.
 
+![mockup](./icons/open-in-sh-mockup.png)
+
 ## Features
 
 - **Open in Sci-Hub**: Quickly open any research paper URL in Sci-Hub.
 - **Right-Click Context Menu**: Right-click on a link, selection, or the page itself and select "Open in Sci-Hub".
 - **Icon Click**: Open the current page directly in Sci-Hub by clicking the extension icon.
-- **Keyboard Shortcut**: Use `Ctrl+Shift+H` to open the current page in Sci-Hub (customizable).
+- **Keyboard Shortcut**: Use `Ctrl+Shift+H` to open the current page in Sci-Hub.
 - **Settings Page**: Customize the extension behavior such as enabling/disabling hotkeys, icon clicks, and setting your preferred Sci-Hub domain.
 - **Dark Mode**: Toggle dark mode for the extension's options page for a better user experience.
 
