@@ -19,7 +19,7 @@ A devTool that allows users to quickly open research paper URLs in Sci-Hub direc
 
 ## Installation
 
-1. Clone this repository, download the project files and extract it to a folder.
+1. Download project zipped file (Open-in-Si-Hub.zip) ~ https://dub.sh/open-in-sh/readme
 2. Open Chrome and go to `chrome://extensions/`.
 3. Enable **Developer mode** .
 4. Click **Load unpacked** and select the folder where the project files are located.
