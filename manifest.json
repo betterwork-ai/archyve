@@ -9,10 +9,11 @@
 },
 "commands": {
     "open-in-scihub": {
-    "suggested_key": {
-        "default": "Ctrl+Shift+H"
-},
-    "description": "Open current page in Sci-Hub"
+        "suggested_key": {
+            "default": "Ctrl+Shift+H",
+            "mac": "Command+Shift+H"
+        },
+        "description": "Open current page in Sci-Hub"
     }
 },
 "host_permissions": [
