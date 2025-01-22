@@ -6,7 +6,8 @@
 
 A devTool that allows users to quickly open research paper URLs in Sci-Hub directly from their browser with a right-click context menu, a browser action icon, or a hotkey. You can customize the Sci-Hub domain and toggle settings such as enabling/disabling hotkeys and icon clicks.
 
-![mockup](./icons/open-in-sh-mockup.png)
+![open-in-sh-mockup](https://github.com/user-attachments/assets/072f2642-a607-42c3-aa52-07069ee68ce6)
+
 
 ## Features
 
