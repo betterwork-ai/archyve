@@ -1,20 +1,19 @@
-# Open in Sci-Hub 
+# Open in Sci-Hub
 > devTool - a chromium browser based extension
 <br>
 
-[![betterwork.ai](https://img.shields.io/badge/betterwork.ai-8A2BE2?style=flat-square&logo=%2306B6D4)](https://betterwork-ai.dino.icu)
+[![betterwork.ai](https://img.shields.io/badge/betterwork.ai-8A2BE2?style=flat-square&logo=%2306B6D4)](https://betterworkai.org)
 
-A devTool that allows users to quickly open research paper URLs in Sci-Hub directly from their browser with a right-click context menu, a browser action icon, or a hotkey. You can customize the Sci-Hub domain and toggle settings such as enabling/disabling hotkeys and icon clicks.
+A devTool that allows users to quickly open research paper URLs in Sci-Hub, and any available directory dB directly from their browser with a right-click context menu, a browser action icon, or a hotkey. You can customize the Sci-Hub domain and toggle settings such as enabling/disabling hotkeys and icon clicks.
 
 
 ## Features
 
-- **Open in Sci-Hub**: Quickly open any research paper URL in Sci-Hub.
+- **Get Access to paper**: Quickly open any research paper URL in Sci-Hub, or any available directory dB.
 - **Right-Click Context Menu**: Right-click on a link, selection, or the page itself and select "Open in Sci-Hub".
 - **Icon Click**: Open the current page directly in Sci-Hub by clicking the extension icon.
 - **Keyboard Shortcut**: Use `Ctrl+Shift+H` to open the current page in Sci-Hub.
-- **Settings Page**: Customize the extension behavior such as enabling/disabling hotkeys, icon clicks, and setting your preferred Sci-Hub domain.
-- **Dark Mode**: Toggle dark mode for the extension's options page for a better user experience.
+- **Options Page**: Customize the extension behavior such as enabling/disabling hotkeys, icon clicks, and setting your preferred Sci-Hub domain.
 
 ## Installation
 
@@ -38,7 +37,7 @@ You can customize the extension's behavior by accessing the **Options** page.
 - **Enable/Disable Icon Click**: Toggle whether clicking the extension icon opens the page in Sci-Hub.
 - **Enable/Disable Hotkey**: Toggle whether pressing `Ctrl+Shift+H` (or your chosen hotkey) opens the page in Sci-Hub.
 - **Sci-Hub Domain**: Set the default Sci-Hub domain (e.g., `https://www.sci-hub.wf/`).
-- **Dark Mode**: Enable or disable dark mode for the options page.
+- **Support**: Added support for any difficulties related to usage.
 
 ### Sci-Hub Domain Preference
 
