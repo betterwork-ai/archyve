@@ -62,6 +62,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 
 
-If this extension has been helpful to you in any way, feel free to support me with a coffee! 
-<br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/heramb)
+If this extension has been helpful to you in any way, dm's are open ;)
