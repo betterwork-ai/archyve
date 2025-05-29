@@ -1,65 +1,110 @@
-# Open in Sci-Hub
-> devTool - a chromium browser based extension
-<br>
+<div align="center">
+  <img src="icons/archyve.png" alt="archyve logo" width="200" />
+  <p><strong>India’s First DeSci Platform — Onchain Research, Incentivized. 📚⚡</strong></p>
 
-[![betterwork.ai](https://img.shields.io/badge/betterwork.ai-8A2BE2?style=flat-square&logo=%2306B6D4)](https://betterworkai.org)
+</div>
 
-A devTool that allows users to quickly open research paper URLs in Sci-Hub, and any available directory dB directly from their browser with a right-click context menu, a browser action icon, or a hotkey. You can customize the Sci-Hub domain and toggle settings such as enabling/disabling hotkeys and icon clicks.
-
-
-## Features
-
-- **Get Access to paper**: Quickly open any research paper URL in Sci-Hub, or any available directory dB.
-- **Right-Click Context Menu**: Right-click on a link, selection, or the page itself and select "Open in Sci-Hub".
-- **Icon Click**: Open the current page directly in Sci-Hub by clicking the extension icon.
-- **Keyboard Shortcut**: Use `Ctrl+Shift+H` to open the current page in Sci-Hub.
-- **Options Page**: Customize the extension behavior such as enabling/disabling hotkeys, icon clicks, and setting your preferred Sci-Hub domain.
-
-## Installation
-
-1. Download project zipped file (Open-in-Si-Hub.zip) ~ https://dub.sh/open-in-sh/release
-2. Open Chrome and go to `chrome://extensions/`.
-3. Enable **Developer mode** .
-4. Click **Load unpacked** and select the folder where the project files are located.
-5. The extension should now be installed and visible in your extension toolbar.
-
-## Ways to use ~
-
-1. **Right-click on a link**: Right-click on any link pointing to a research paper, and select **"Open in Sci-Hub"** to open the link in Sci-Hub.
-2. **Right-click anywhere on the page**: Right-click anywhere on the page and select **"Open in Sci-Hub"** to open the current page in Sci-Hub.
-3. **Click the Extension Icon**: Click the extension icon to open the current page in Sci-Hub.
-4. **Keyboard Shortcut**: Press `Ctrl+Shift+H` (or your configured hotkey) to open the current page in Sci-Hub.
-
-## options-menu
-
-You can customize the extension's behavior by accessing the **Options** page.
-
-- **Enable/Disable Icon Click**: Toggle whether clicking the extension icon opens the page in Sci-Hub.
-- **Enable/Disable Hotkey**: Toggle whether pressing `Ctrl+Shift+H` (or your chosen hotkey) opens the page in Sci-Hub.
-- **Sci-Hub Domain**: Set the default Sci-Hub domain (e.g., `https://www.sci-hub.wf/`).
-- **Support**: Added support for any difficulties related to usage.
-
-### Sci-Hub Domain Preference
-
-The extension allows you to specify a custom Sci-Hub domain (e.g., `https://www.sci-hub.wf/`). This setting is synced across all your devices.
+> [!WARNING]  
+> This is an archived version of Archyve v0. <br>
+> The current version is under a complete rebuild, embracing open, onchain, and incentive-driven research publishing.
 
 ---
 
-## Contributing
+## 📖 What is Archyve?
 
-If you would like to contribute to the project, feel free to fork the repository, make improvements, and submit a pull request.
+Archyve started as a simple browser extension to help users access research papers via open directories — right from their browser. It offered ease, speed, and a developer-friendly way to maximize productivity.  
 
-## License
+However, **we've evolved**.
 
-This project is open-source and available under the [MIT License](LICENSE).
+We're now building **Archyve v1** — a permissionless, decentralized platform where:
 
-## Acknowledgments
+- **Researchers own their content**.
+- **Contributors are incentivized** on-chain.
+- **Research is freely accessible**, verified, and immutable.
 
-- Sci-Hub for providing free access to research papers.
-- Chrome Extensions API for allowing us to build this extension.
+This README reflects the original version for reference purposes only.
 
 ---
 
+## 🛠️ What Did Archyve v0 Do?
 
+> A simple Chromium-based dev tool to quickly open academic content through Sci-Hub or known open-access directories.
 
-If this extension has been helpful to you in any way, dm's are open ;)
+### 🧩 Features
+
+- 🔗 **Right-click context menu**: Open any selected research paper link directly.
+- 🖱️ **Icon Click**: One-click access to open current tab in Sci-Hub.
+- ⌨️ **Keyboard Shortcut**: `Ctrl + Shift + H` for instant access.
+- ⚙️ **Options Page**:
+  - Enable/disable hotkeys
+  - Set your preferred Sci-Hub domain
+  - Toggle icon behavior
+
+---
+
+## 🚫 Why We No Longer Support Sci-Hub Access
+
+While we respect the mission of open knowledge, **Sci-Hub operates in legal gray zones** and is not a sustainable or compliant approach for global academic access.  
+
+**Archyve's future is open, legal, and decentralized.** We're transitioning toward a **Web3-native infrastructure** where authors can:
+
+- Publish verified research on-chain  
+- Monetize or license their work openly  
+- Build profiles and credibility as researchers  
+
+---
+
+## 🚀 What's Coming in Archyve v1
+We're in active development for:
+
+### 🌐 Web3 Research Protocol  
+An onchain, censorship-resistant protocol where:
+
+- 🧑‍🔬 **Researchers can build open profiles**  
+- 📤 **Submit and verify their original research**  
+- 📥 **Community-driven validation and review**  
+- 🎁 **Token-based incentives** for publishers and curators  
+- 🔍 **Public, trustless search index** across verified materials
+
+### 📦 Modular Features (Upcoming)
+
+- ⚡ Upload-to-chain flow (IPFS + smart contract metadata)
+- ✅ Zero-knowledge verification pipeline for academic legitimacy
+- 🔗 Identity linking (ORCID, Lens profiles, etc.)
+
+---
+
+### Installation
+
+- [Microsoft Edge (Recommended)](https://dub.sh/mcsft-ois) 
+- [Chrome](https://ggl.link/archyve)
+---
+
+## 🤝 Contributing
+
+We're open to radical minds building the future of research.  
+Want to contribute to Archyve v2?
+
+- Fork the repo
+- Check the [issues](https://github.com/betterwork-ai/archyve/issues)
+- Propose features
+- DM us if you're building something exciting
+
+---
+
+## 📜 License
+
+The archived extension (v0) is under the [MIT License](LICENSE).
+
+The upcoming Archyve v2 will be licensed under a permissive open-source license to support its decentralized nature.
+
+---
+
+## 📢 Stay in Touch
+
+- Follow our dev logs (coming soon)
+- built by [@hebuildapps](https://x.com/hebuildapps)
+- Email: betterwork.ai@gmail.com
+- We're @[betterwork.ai](https://betterworkai.org)
+
+> Made with 💜 for the future of open research and memory of Aaron Swartz.
